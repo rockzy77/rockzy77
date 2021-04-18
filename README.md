@@ -1,4 +1,3 @@
-#Hahaha❤️
 
 **Hey, Iam Ali Rockzy. Frontend Website and App Developer.**
 

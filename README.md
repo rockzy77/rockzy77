@@ -10,7 +10,7 @@ _________________________________
 
 ***Achievements***
 
-TechnoHolix2k21 Second Price Winner
+☕️TechnoHolix2k21 Second Price Winner
 
 _________________________________
 
@@ -23,3 +23,5 @@ _________________________________
 [Snapchat](https://snapchat.com/add/rockzy_vlogs)
 
 [Twitter](https://t.me/rider_rockzy)
+
+

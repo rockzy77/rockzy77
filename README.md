@@ -8,6 +8,12 @@ Programmer From 🇮🇳
 Founder of [Taaklo|Software Company](https://taaklocommunity.github.io)
 _________________________________
 
+***Achievements***
+
+TechnoHolix2k21 Second Price Winner
+
+_________________________________
+
 ***SocialMedia Profiles***
 
 [Instagram](https://instagram.com/ali.rockzy)

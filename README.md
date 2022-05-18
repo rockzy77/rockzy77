@@ -11,14 +11,13 @@ _________________________________
 ***Achievements***
 
 ☕️TechnoHolix2k21 Second Price Winner
+☕️LETS'S<CODE>INDIA-HACKATHON Third Price Winner
 
 _________________________________
 
 ***SocialMedia Profiles***
 
 [Instagram](https://instagram.com/ali.rockzy)
-
-[Youtube](https://youtube.com/c/riderrockzy)
 
 [Snapchat](https://snapchat.com/add/rockzy_vlogs)
 

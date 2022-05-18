@@ -11,7 +11,7 @@ _________________________________
 ***Achievements***
 
 ☕️TechnoHolix2k21 Second Price Winner <br>
-☕️LETS'S<CODE>INDIA-HACKATHON Third Price Winner
+☕️LETS'S CODE INDIA-HACKATHON Third Price Winner
 
 _________________________________
 

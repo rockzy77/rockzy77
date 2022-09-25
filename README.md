@@ -3,7 +3,7 @@
 
 Programmer From 🇮🇳
 
-❤️Flutter, Java, Html, CSS, Javscript, Jquery, Python❤️
+❤️Flutter, Html, CSS, Javscript, Jquery, ReactJS, Python, SQL❤️
 
 Founder of [Taaklo|Software Company](https://taaklocommunity.github.io)
 _________________________________

@@ -1,17 +1,18 @@
 
-**Hey, Iam Ali Rockzy. Frontend Website and App Developer.**
+**Hey, Iam Ali Rockzy. Cyber Defense and Network pentester.**
 
-Programmer From 🇮🇳
+- Network Analyst
+- Network Pentester
+- Threat Management
 
-❤️Flutter, Html, CSS, Javscript, Jquery, ReactJS, Python, SQL❤️
-
-Founder of [Taaklo|Software Company](https://taaklocommunity.github.io)
+Linux | BurpSuite | Nmap | Splunk | Git | Wireshark
 _________________________________
 
-***Achievements***
+***Certifications***
 
-☕️TechnoHolix2k21 Second Price Winner <br>
-☕️LETS'S CODE INDIA-HACKATHON Third Price Winner
+Security Operations and the Defense Analyst - [Splunk](https://drive.google.com/file/d/1_tpztn-6fdbbXk_gLi_nSkAMfZ_GY_MB/view?usp=sharing)
+SplunkAdvanced SQL Certification - [Hackerrank](https://www.hackerrank.com/certificates/ff2299785df5)
+
 
 _________________________________
 
@@ -21,6 +22,6 @@ _________________________________
 
 [Snapchat](https://snapchat.com/add/rockzy_vlogs)
 
-[Twitter](https://t.me/rider_rockzy)
+[X](https://x.com/Ali_Rockzy)
 
 

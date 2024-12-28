@@ -18,7 +18,7 @@ _________________________________
 
 ***SocialMedia Profiles***
 
-[Instagram](https://instagram.com/ali.rockzy)
+[Instagram](https://instagram.com/ali.rockzy) <br>
 
 [Snapchat](https://snapchat.com/add/rockzy_vlogs)
 

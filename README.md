@@ -1,9 +1,10 @@
 
-**Hey, Iam Ali Rockzy. Cyber Defense and Network pentester.**
+**Hey, Iam Ali Rockzy. Certified Ethical Hacker and Backend Engineer.**
 
 - Network Analyst
 - Network Pentester
 - Threat Management
+- Backend Developer
 
 Linux | BurpSuite | Nmap | Splunk | Git | Wireshark
 
